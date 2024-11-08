@@ -2,8 +2,8 @@
 
 En este ejercicio tiene como objetivo repasar los siguientes tema:
 * Diseño responsivo
+* Uso de JavaScript
 * Manipulación y creación de elemento por medio del DOM
-* Uso de JS dentro de nuestra página Web
 
 ## Contenidos
 
