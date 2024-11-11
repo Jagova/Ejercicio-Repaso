@@ -50,6 +50,23 @@ nav i {
     padding: 5px 0;
 }
 
+.main-container{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+}
+
+.card{
+    background-color: antiquewhite;
+    padding: 15px;
+    margin: 5px;
+    border: 1px solid snow;
+    border-radius: 5px;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
 
 @media (width < 460px) {
     .menu {
@@ -62,5 +79,9 @@ nav i {
 
     .mobile-menu-visible{
         display: block;
+    }
+
+    .card{
+        width: 100%;
     }
 }
